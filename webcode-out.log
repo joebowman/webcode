@@ -1,0 +1,132 @@
+[36mMigrations[39m[36m:[39m [36mUp to date at version 003[39m
+[32mGhost is running...[39m 
+Your blog is now available on https://webcode01.com [90m
+Ctrl+C to shut down[39m
+99.151.5.81 - - [17/May/2015:22:48:57 +0000] "GET / HTTP/1.0" 200 - "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:48:58 +0000] "GET /assets/css/screen.css?v=425d236df1 HTTP/1.0" 200 - "https://webcode01.com/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:48:58 +0000] "GET /content/images/2015/04/g5019.png HTTP/1.0" 304 - "https://webcode01.com/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:48:58 +0000] "GET /public/jquery.min.js?v=425d236df1 HTTP/1.0" 200 - "https://webcode01.com/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:48:58 +0000] "GET /assets/js/jquery.fitvids.js?v=425d236df1 HTTP/1.0" 200 - "https://webcode01.com/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:48:58 +0000] "GET /assets/js/index.js?v=425d236df1 HTTP/1.0" 200 - "https://webcode01.com/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:48:58 +0000] "GET /assets/fonts/casper-icons.woff HTTP/1.0" 304 - "https://webcode01.com/assets/css/screen.css?v=425d236df1" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:48:58 +0000] "GET /content/images/2015/04/wc2015---zurple-it-1.png HTTP/1.0" 304 - "https://webcode01.com/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:48:58 +0000] "GET /public/jquery.min.js?v=425d236df1 HTTP/1.0" 304 - "https://webcode01.com/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:48:58 +0000] "GET /assets/js/jquery.fitvids.js?v=425d236df1 HTTP/1.0" 304 - "https://webcode01.com/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:48:58 +0000] "GET /assets/js/index.js?v=425d236df1 HTTP/1.0" 304 - "https://webcode01.com/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:48:58 +0000] "GET /favicon.ico HTTP/1.0" 200 - "https://webcode01.com/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+66.249.73.238 - - [17/May/2015:22:49:49 +0000] "GET /robots.txt HTTP/1.0" 200 - "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.73.238 - - [17/May/2015:22:49:49 +0000] "GET /sitemap.xml HTTP/1.0" 200 622 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+192.0.84.33 - - [17/May/2015:22:51:52 +0000] "HEAD / HTTP/1.0" 301 56 "-" "jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)"
+192.0.84.33 - - [17/May/2015:22:51:53 +0000] "HEAD / HTTP/1.0" 200 9627 "-" "jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)"
+192.0.84.33 - - [17/May/2015:22:56:48 +0000] "HEAD / HTTP/1.0" 301 56 "-" "jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)"
+192.0.84.33 - - [17/May/2015:22:56:48 +0000] "HEAD / HTTP/1.0" 200 9627 "-" "jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)"
+99.151.5.81 - - [17/May/2015:22:57:07 +0000] "GET /ghost HTTP/1.0" 303 - "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:07 +0000] "GET /ghost/ HTTP/1.0" 200 - "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:07 +0000] "GET /ghost/vendor.min.css?v=425d236df1 HTTP/1.0" 200 - "https://webcode01.com/ghost/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:07 +0000] "GET /ghost/ghost.min.css?v=425d236df1 HTTP/1.0" 200 - "https://webcode01.com/ghost/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:07 +0000] "GET /ghost/ghost.min.js?v=425d236df1 HTTP/1.0" 200 - "https://webcode01.com/ghost/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:07 +0000] "GET /ghost/vendor.min.js?v=425d236df1 HTTP/1.0" 200 - "https://webcode01.com/ghost/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:08 +0000] "POST /ghost/api/v0.1/authentication/token HTTP/1.0" 200 - "https://webcode01.com/ghost/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:09 +0000] "GET /ghost/api/v0.1/notifications/ HTTP/1.0" 200 352 "https://webcode01.com/ghost/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:09 +0000] "GET /ghost/api/v0.1/users/me/?status=all&include=roles HTTP/1.0" 200 736 "https://webcode01.com/ghost/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:09 +0000] "GET /ghost/api/v0.1/posts/?status=all&staticPages=all&page=1&include=tags HTTP/1.0" 200 - "https://webcode01.com/ghost/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:09 +0000] "GET /shared/img/user-image.png HTTP/1.0" 304 - "https://webcode01.com/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:09 +0000] "GET /ghost/fonts/icons.woff?v=0.1 HTTP/1.0" 200 16092 "https://webcode01.com/ghost/ghost.min.css?v=425d236df1" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:09 +0000] "GET /content/images/2015/05/Photo-May-15--11-39-08-AM.png HTTP/1.0" 200 77130 "https://webcode01.com/ghost/14/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:09 +0000] "GET /content/images/2015/05/Photo-May-15--11-39-04-AM-1.png HTTP/1.0" 200 44415 "https://webcode01.com/ghost/14/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:09 +0000] "GET /content/images/2015/05/Photo-May-15--11-39-25-AM.jpg HTTP/1.0" 200 67270 "https://webcode01.com/ghost/14/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:11 +0000] "GET /ghost/api/v0.1/settings/?type=blog%2Ctheme HTTP/1.0" 200 - "https://webcode01.com/ghost/14/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:18 +0000] "PUT /ghost/api/v0.1/settings/ HTTP/1.0" 200 - "https://webcode01.com/ghost/settings/general/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+[33m
+Warning:[39m [33mWarning: pageUrl is deprecated, please use page_url instead
+The helper pageUrl has been replaced with page_url in Ghost 0.4.2, and will be removed entirely in Ghost 0.6
+In your theme's pagination.hbs file, pageUrl should be renamed to page_url[39m 
+ 
+
+99.151.5.81 - - [17/May/2015:22:57:24 +0000] "GET / HTTP/1.0" 200 - "https://webcode01.com/ghost/settings/general/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:24 +0000] "GET /assets/js/head-scripts.min.js?v=425d236df1 HTTP/1.0" 200 - "https://webcode01.com/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:24 +0000] "GET /assets/css/main.min.css?v=425d236df1 HTTP/1.0" 200 - "https://webcode01.com/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:24 +0000] "GET /assets/js/foot-scripts.min.js?v=425d236df1 HTTP/1.0" 200 - "https://webcode01.com/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:25 +0000] "GET /assets/fonts/fontawesome-webfont.woff?v=4.1.0 HTTP/1.0" 200 83760 "https://webcode01.com/assets/css/main.min.css?v=425d236df1" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+[33m
+Warning:[39m [33mWarning: pageUrl is deprecated, please use page_url instead
+The helper pageUrl has been replaced with page_url in Ghost 0.4.2, and will be removed entirely in Ghost 0.6
+In your theme's pagination.hbs file, pageUrl should be renamed to page_url[39m 
+ 
+
+99.151.5.81 - - [17/May/2015:22:57:33 +0000] "GET /?_pjax=%5Bdata-pjax-container%5D HTTP/1.0" 200 - "https://webcode01.com/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+66.249.65.188 - - [17/May/2015:22:57:38 +0000] "GET /robots.txt HTTP/1.0" 301 66 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.65.188 - - [17/May/2015:22:57:38 +0000] "GET /blog/2011/10/11/the-lost-ruby-of-egypt/ HTTP/1.0" 301 178 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.73.238 - - [17/May/2015:22:57:39 +0000] "GET /blog/2011/10/11/the-lost-ruby-of-egypt/ HTTP/1.0" 404 - "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+99.151.5.81 - - [17/May/2015:22:57:41 +0000] "GET /the-new-tld-design-launches/?_pjax=%5Bdata-pjax-container%5D HTTP/1.0" 200 - "https://webcode01.com/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:57:41 +0000] "GET /content/images/2015/05/Screenshot-2015-05-12-13-52-48-1.jpg HTTP/1.0" 200 55116 "https://webcode01.com/the-new-tld-design-launches/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+[33m
+Warning:[39m [33mWarning: pageUrl is deprecated, please use page_url instead
+The helper pageUrl has been replaced with page_url in Ghost 0.4.2, and will be removed entirely in Ghost 0.6
+In your theme's pagination.hbs file, pageUrl should be renamed to page_url[39m 
+ 
+
+99.151.5.81 - - [17/May/2015:22:58:13 +0000] "GET /?_pjax=%5Bdata-pjax-container%5D HTTP/1.0" 304 - "https://webcode01.com/the-new-tld-design-launches/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:59:16 +0000] "GET /ghost/api/v0.1/posts/?status=all&staticPages=all&page=1&include=tags&limit=15 HTTP/1.0" 200 - "https://webcode01.com/ghost/settings/general/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:59:19 +0000] "GET /ghost/api/v0.1/tags/?limit=all HTTP/1.0" 200 - "https://webcode01.com/ghost/editor/14/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:59:19 +0000] "GET /ghost/api/v0.1/users/?limit=all&include=roles HTTP/1.0" 200 827 "https://webcode01.com/ghost/editor/14/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:59:20 +0000] "GET /content/images/2015/05/g17675.png HTTP/1.0" 200 1370064 "https://webcode01.com/ghost/editor/14/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:59:22 +0000] "PUT /ghost/api/v0.1/posts/14/?include=tags HTTP/1.0" 200 - "https://webcode01.com/ghost/editor/14/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:59:30 +0000] "DELETE /ghost/api/v0.1/notifications/1/ HTTP/1.0" 200 352 "https://webcode01.com/ghost/editor/14/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:59:33 +0000] "GET /ghost/api/v0.1/posts/?status=all&staticPages=all&page=1&include=tags&limit=15 HTTP/1.0" 200 - "https://webcode01.com/ghost/editor/14/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:22:59:37 +0000] "GET /the-new-tld-design-launches/?_pjax=%5Bdata-pjax-container%5D HTTP/1.0" 304 - "https://webcode01.com/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+192.0.84.33 - - [17/May/2015:23:02:04 +0000] "HEAD / HTTP/1.0" 301 56 "-" "jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)"
+[33m
+Warning:[39m [33mWarning: pageUrl is deprecated, please use page_url instead
+The helper pageUrl has been replaced with page_url in Ghost 0.4.2, and will be removed entirely in Ghost 0.6
+In your theme's pagination.hbs file, pageUrl should be renamed to page_url[39m 
+ 
+
+192.0.84.33 - - [17/May/2015:23:02:04 +0000] "HEAD / HTTP/1.0" 200 14983 "-" "jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)"
+192.0.84.33 - - [17/May/2015:23:06:55 +0000] "HEAD / HTTP/1.0" 301 56 "-" "jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)"
+[33m
+Warning:[39m [33mWarning: pageUrl is deprecated, please use page_url instead
+The helper pageUrl has been replaced with page_url in Ghost 0.4.2, and will be removed entirely in Ghost 0.6
+In your theme's pagination.hbs file, pageUrl should be renamed to page_url[39m 
+ 
+
+192.0.84.33 - - [17/May/2015:23:06:56 +0000] "HEAD / HTTP/1.0" 200 14983 "-" "jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)"
+192.0.84.33 - - [17/May/2015:23:11:52 +0000] "HEAD / HTTP/1.0" 301 56 "-" "jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)"
+[33m
+Warning:[39m [33mWarning: pageUrl is deprecated, please use page_url instead
+The helper pageUrl has been replaced with page_url in Ghost 0.4.2, and will be removed entirely in Ghost 0.6
+In your theme's pagination.hbs file, pageUrl should be renamed to page_url[39m 
+ 
+
+192.0.84.33 - - [17/May/2015:23:11:52 +0000] "HEAD / HTTP/1.0" 200 14983 "-" "jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)"
+192.0.84.33 - - [17/May/2015:23:16:53 +0000] "HEAD / HTTP/1.0" 301 56 "-" "jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)"
+[33m
+Warning:[39m [33mWarning: pageUrl is deprecated, please use page_url instead
+The helper pageUrl has been replaced with page_url in Ghost 0.4.2, and will be removed entirely in Ghost 0.6
+In your theme's pagination.hbs file, pageUrl should be renamed to page_url[39m 
+ 
+
+192.0.84.33 - - [17/May/2015:23:16:53 +0000] "HEAD / HTTP/1.0" 200 14983 "-" "jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)"
+192.0.84.33 - - [17/May/2015:23:21:50 +0000] "HEAD / HTTP/1.0" 301 56 "-" "jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)"
+[33m
+Warning:[39m [33mWarning: pageUrl is deprecated, please use page_url instead
+The helper pageUrl has been replaced with page_url in Ghost 0.4.2, and will be removed entirely in Ghost 0.6
+In your theme's pagination.hbs file, pageUrl should be renamed to page_url[39m 
+ 
+
+192.0.84.33 - - [17/May/2015:23:21:50 +0000] "HEAD / HTTP/1.0" 200 14983 "-" "jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)"
+192.0.84.33 - - [17/May/2015:23:26:58 +0000] "HEAD / HTTP/1.0" 301 56 "-" "jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)"
+[33m
+Warning:[39m [33mWarning: pageUrl is deprecated, please use page_url instead
+The helper pageUrl has been replaced with page_url in Ghost 0.4.2, and will be removed entirely in Ghost 0.6
+In your theme's pagination.hbs file, pageUrl should be renamed to page_url[39m 
+ 
+
+192.0.84.33 - - [17/May/2015:23:26:58 +0000] "HEAD / HTTP/1.0" 200 14983 "-" "jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)"
+66.249.65.181 - - [17/May/2015:23:27:38 +0000] "GET /groups/ HTTP/1.0" 301 114 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.73.238 - - [17/May/2015:23:27:39 +0000] "GET /groups/ HTTP/1.0" 404 - "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+99.151.5.81 - - [17/May/2015:23:30:51 +0000] "GET /ghost/api/v0.1/settings/?type=blog%2Ctheme HTTP/1.0" 200 - "https://webcode01.com/ghost/14/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:23:30:57 +0000] "PUT /ghost/api/v0.1/settings/ HTTP/1.0" 200 - "https://webcode01.com/ghost/settings/general/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:23:30:59 +0000] "GET / HTTP/1.0" 200 - "https://webcode01.com/ghost/settings/general/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:23:31:03 +0000] "GET /the-new-tld-design-launches/ HTTP/1.0" 200 - "https://webcode01.com/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+99.151.5.81 - - [17/May/2015:23:31:03 +0000] "GET /content/images/2015/05/webcodeslide4.jpg HTTP/1.0" 200 279457 "https://webcode01.com/the-new-tld-design-launches/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
